@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int month, day, year;
 
     printf("Enter a date in mm/dd/yyyy format: \n");
